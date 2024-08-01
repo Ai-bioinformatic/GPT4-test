@@ -1,0 +1,8 @@
+README.md
+setup.py
+aibio/__init__.py
+aibio.egg-info/PKG-INFO
+aibio.egg-info/SOURCES.txt
+aibio.egg-info/dependency_links.txt
+aibio.egg-info/requires.txt
+aibio.egg-info/top_level.txt

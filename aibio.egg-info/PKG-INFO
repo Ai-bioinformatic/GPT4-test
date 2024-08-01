@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: aibio
+Version: 0.0.1
+Author: AIBIO
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: tqdm
+Requires-Dist: openai~=1.34.0
